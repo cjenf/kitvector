@@ -8,7 +8,7 @@ pip install kitvector
 ## Usage
 ### Suppose you have: 
 
- $$
+ ### $$
  ### \vec{v}=(v_1, v_2, v_3)
- $$
+ ### $$
 
