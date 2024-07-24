@@ -12,7 +12,7 @@ pip install kitvector
  \vec{v}=(v_1, v_2, v_3)<br>
  $$
  
- <div align="center">and</div>
+ <div align="center">\quad and</div>
 
  $$
  \vec{u}=(u_1, u_2, u_3)
