@@ -41,3 +41,10 @@ v.mul_k(3) # output: Vector(3, 6, 9)
 $$
 \vec{v} \cdot \vec{u}
 $$
+
+```py
+Vactor.dot((1, 2, 3),(4, 5, 6))
+```
+### cross
+> [!NOTE]
+> **The outer product of the vector.**
