@@ -6,4 +6,4 @@ pip install kitvector
 > [!NOTE]
 > **This module is just some basic vector operations.**
 ## Usage
-Suppose you have:
+### Suppose you have:\vec{u} + \vec{v}
