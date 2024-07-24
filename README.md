@@ -24,7 +24,7 @@ import kitvector
 v=kitvector.Vector((1, 2, 3))
 u=kitvector.Vector((4, 5, 6))
 ```
-### mul_k
+## mul_k
 > [!NOTE]
 > **Multiply the vector u by a scalar k.**
 
@@ -34,7 +34,7 @@ $$
 ```py
 v.mul_k(3) # output: Vector(3, 6, 9)
 ```
-### dot
+## dot
 > [!NOTE]
 > **The inner product of the vector.**
 
