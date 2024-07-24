@@ -34,3 +34,10 @@ $$
 ```py
 v.mul_k(3) # output: Vector(3, 6, 9)
 ```
+### dot
+> [!NOTE]
+> **The inner product of the vector.**
+
+$$
+\vec{v} \cdot \vec{u}
+$$
