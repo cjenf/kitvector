@@ -45,6 +45,10 @@ $$
 ```py
 Vactor.dot((1, 2, 3),(4, 5, 6))
 ```
-### cross
+## cross
 > [!NOTE]
 > **The outer product of the vector.**
+
+$$
+\vec{v} × \vec{u}
+$$
