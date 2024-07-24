@@ -11,11 +11,9 @@ pip install kitvector
  $$
  \vec{v}=(v_1, v_2, v_3)<br>
  $$
- 
  $$
  \quad and
  $$
-
  $$
  \vec{u}=(u_1, u_2, u_3)
  $$
