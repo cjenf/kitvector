@@ -3,3 +3,5 @@
 ```py
 pip install kitvector
 ```
+> [!NOTE]
+> **This module is just some basic vector operations.**
