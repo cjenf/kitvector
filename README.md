@@ -24,7 +24,8 @@ import kitvector
 v=kitvector.Vector((1, 2, 3))
 u=kitvector.Vector((4, 5, 6))
 ```
-mul_k
+### mul_k
+
 $$
  \vec{u}=(u_1, u_2, u_3)⋅\quad k
 $$
