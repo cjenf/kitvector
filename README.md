@@ -8,17 +8,21 @@ pip install kitvector
 ## Usage
 ### Suppose you have: 
 
- $$
+$$
  \vec{v}=(v_1, v_2, v_3)<br>
- $$
+$$
  
- $$
+$$
  \quad and
- $$
+$$
  
- $$
+$$
  \vec{u}=(u_1, u_2, u_3)
- $$
-
+$$
+```py
+impport kitvector
+v=kitvector.Vector((1, 2, 3))
+u=kitvector.Vector((4, 5, 6))
+```
 
 
