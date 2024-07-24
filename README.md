@@ -43,7 +43,7 @@ $$
 $$
 
 ```py
-Vactor.dot((1, 2, 3),(4, 5, 6))
+Vactor.dot(v, u)
 ```
 ## cross
 > [!NOTE]
@@ -54,5 +54,5 @@ $$
 $$
 
 ```py
-Vactor.cross((1, 2, 3),(4, 5, 6))
+Vactor.cross(v, u)
 ```
