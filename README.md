@@ -31,4 +31,6 @@ u=kitvector.Vector((4, 5, 6))
 $$
  \vec{u}=(u_1, u_2, u_3)⋅𝑘
 $$
-
+```py
+v.mul_k(3) # output: Vector(3, 6, 9)
+```
