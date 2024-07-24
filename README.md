@@ -9,6 +9,6 @@ pip install kitvector
 ### Suppose you have: 
 
  $$
- \vec{a}=(v_1, v_2, v_3)
+ ### \vec{v}=(v_1, v_2, v_3)
  $$
 
