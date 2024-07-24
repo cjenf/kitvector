@@ -9,8 +9,8 @@ pip install kitvector
 ### Suppose you have: 
 
  $$
- \vec{v}=(v_1, v_2, v_3)
- and
+ \vec{v}=(v_1, v_2, v_3)<br>
+ and<br>
  \vec{u}=(u_1, u_2, u_3)
  $$
 
