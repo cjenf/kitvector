@@ -25,8 +25,9 @@ v=kitvector.Vector((1, 2, 3))
 u=kitvector.Vector((4, 5, 6))
 ```
 ### mul_k
-
+> [!NOTE]
+> **Multiply the vector u by a scalar k.**
 $$
- \vec{u}=(u_1, u_2, u_3)⋅\kappa
+ \vec{u}=(u_1, u_2, u_3)⋅𝑘
 $$
 
