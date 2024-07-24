@@ -6,5 +6,7 @@ pip install kitvector
 > [!NOTE]
 > **This module is just some basic vector operations.**
 ## Usage
-### Suppose you have: $\mathbf{v}$
+### Suppose you have: 
+
+$\mathbf{v}$
 
