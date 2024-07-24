@@ -8,5 +8,5 @@ pip install kitvector
 ## Usage
 ### Suppose you have: 
 
-$\mathbf{v}$
+ $(v_1, v_2, v_3)$
 
