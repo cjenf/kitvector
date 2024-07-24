@@ -7,7 +7,7 @@ pip install kitvector
 > **This module is just some basic vector operations.**
 ## Usage
 ### Suppose you have: 
-
+$\vec{a}$
  $$
  (v_1, v_2, v_3)
  $$
