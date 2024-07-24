@@ -1,1 +1,5 @@
 # Vector
+### This package has basic Vector operations (not suitable for machine learning).
+```py
+pip install kitvector
+```
