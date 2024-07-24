@@ -51,7 +51,6 @@ class Vector:
         """
         Calculates the projection of v1 onto v2.
         """
-        return Vector.dot(v1, v2) / Vector.dot(v2,v2) * v2
         return Vector(tuple(map(lambda x: x *(Vector.dot(v1, v2) / Vector.dot(v2,v2)), v2)))
     
     @staticmethod
