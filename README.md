@@ -72,7 +72,7 @@ v.magnitude # output: 3.7416573867739413
 > **Unit Vector.**
 
 $$
-\vec{v}^
+\vec{v}
 $$
 
 ```py
