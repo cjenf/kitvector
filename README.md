@@ -67,3 +67,14 @@ $$
 ```py
 v.magnitude # output: 3.7416573867739413
 ```
+## unit_vector
+> [!NOTE]
+> **Unit Vector.**
+
+$$
+\vec{v}^
+$$
+
+```py
+v.unit_vector
+```
