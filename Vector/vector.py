@@ -62,14 +62,14 @@ class Vector:
         return Vector(Vector.cross(v1, v2)).magnitude()
     
     @staticmethod
-    def triangle(v1:Tuple[int, float],v2:Tuple[int, float]):
+    def triangle(v1:Tuple[int, float],v2:Tuple[int, float]) -> int | float:
         """
         Calculates the area of the triangle formed by v1 and v2.
         """
         return (Vector.area(v1,v2))
     
     @staticmethod
-    def angle(v1:Tuple[int, float],v2:Tuple[int, float]):
+    def angle(v1:Tuple[int, float],v2:Tuple[int, float]) -> int | float:
         """
         Calculates the angle between v1 and v2.
         """
