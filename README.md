@@ -56,3 +56,14 @@ $$
 ```py
 Vactor.cross(v, u)
 ```
+## magnitude
+> [!NOTE]
+> **The size of the vector.**
+
+$$
+∥\vec{v}∥
+$$
+
+```py
+
+```
