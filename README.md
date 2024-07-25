@@ -78,3 +78,29 @@ $$
 ```py
 v.unit_vector
 ```
+## projection
+> [!NOTE]
+> **projection of Vector.**
+```py
+Vector.projection(v, u)
+```
+## area
+> [!NOTE]
+> **Parallelogram area.**
+```py
+Vector.area(v, u)
+```
+## triangle
+> [!NOTE]
+> **Triangle area.**
+```py
+Vector.triangle(v, u)
+```
+## angle
+> [!NOTE]
+> **Return cos0.**
+```py
+Vector.angle(v, u)
+```
+
+
